@@ -118,9 +118,9 @@ author:
       url: "https://wboyles.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Whitman College"
-      # url: "https://whitman.edu/"
+      url: "https://whitman.edu/"
 
 # Site Footer
 footer:
@@ -133,9 +133,9 @@ footer:
       url: "https://wboyles.github.io/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://github.com/"
     - label: "Whitman College"
-      # url: "https://whitman.edu/"
+      url: "https://whitman.edu/"
 
 
 # Reading Files
