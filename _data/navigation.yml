@@ -2,11 +2,11 @@
 main:
   - title: "Home"
     url: https://wboyles.github.io/
-  # - title: "Teaching"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
+  - title: "Teaching"
+    url: https://wboyles.github.io/teaching
+  - title: "Research"
+    url: https://wboyles.github.io/
+  - title: "Student Information"
+    url: https://wboyles.github.io/
   # - title: "Sitemap"
   #   url: /sitemap/
