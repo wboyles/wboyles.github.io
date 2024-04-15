@@ -1,1 +1,25 @@
+---
+title: "Student Resources"
+layout: single
+permalink: /student-resources/
+---
 
+# Student Resources
+
+## Beyond Whitman
+
+### Graduate Study
+
+### Careers
+
+## At Whitman
+
+### Whitman Opportunities
+
+### Internships/REUs
+
+## Helpful Skills
+
+### Software
+
+### Soft Skills
