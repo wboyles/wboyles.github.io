@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 layout: single
-permalink: /teaching
+permalink: /teaching/
 ---
 
 # Courses Taught at Whitman College
