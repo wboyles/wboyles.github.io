@@ -16,6 +16,10 @@ permalink: /student-resources/
 
 ### Whitman Opportunities
 
+### Competitions
+
+### Conferences
+
 ### Internships/REUs
 
 ## Helpful Skills
