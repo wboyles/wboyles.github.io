@@ -8,7 +8,9 @@ permalink: /research/
 
 ## Topics of Interest
 
-## Papers
+### Primary Research Interest
+
+### Secondary Research Interests
 
 ## Past Senior Theses
 
