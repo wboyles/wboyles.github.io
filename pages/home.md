@@ -44,4 +44,3 @@ I graduated from Texas A&M in 2023 with a PhD in Statistics and Wake Forest Univ
 I enjoy playing musical instruments (primarily in the bass clef) and playing board games.
 I also experiment with baking (especially biscuits) and like to incorporate this into class examples!
 I follow quite a few different sports teams and specific players across most sports!
-Slowly, I am getting back into distance running.
